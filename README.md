@@ -1,16 +1,16 @@
-### Hi there 👋
+Bienvenid@ a mi github!
 
-<!--
-**andreaolmos90/andreaolmos90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Te cuento lo que vas a encontrar acá:
 
-Here are some ideas to get you started:
+🌱 Repositorios de aprendizaje
+En el último tiempo hice cursos de programación en Python, R y Javascript. Varios repositorios corresponden a lo desarrollado en estos cursos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 Repositorios de proyectos personales
+
+En este momento estoy trabajando en:
+
+- Proyecto Felibook (desarrollado en Javascript y NodeJS): 
+    App orientada a la adopción de gat@s sin hogar. Permitirá una interacción más fluida entre rescatistas y posibles adoptantes.
+ 
+
